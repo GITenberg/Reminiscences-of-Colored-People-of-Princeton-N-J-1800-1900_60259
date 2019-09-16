@@ -1,0 +1,26 @@
+_repo: Reminiscences-of-Colored-People-of-Princeton-N-J-1800-1900_60259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Anna Bustill
+    alias: Smith, Anna Amelia Bustill
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '50873'
+    url: http://www.gutenberg.org/2009/agents/50873
+description: ''
+gutenberg_issued: '2019-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'African Americans -- New Jersey -- Princeton'
+- !lcsh 'Princeton (N.J.) -- Biography'
+- GITenberg
+title: 'Reminiscences of Colored People of Princeton, N. J.: 1800-1900'
+url: http://www.gutenberg.org/ebooks/60259
